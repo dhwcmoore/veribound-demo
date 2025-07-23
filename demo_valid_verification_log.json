@@ -1,0 +1,13 @@
+{
+  "file": "demo_valid.json",
+  "timestamp": "2025-07-16T23:44:28.163088+00:00",
+  "status": "PASS",
+  "color": "GREEN",
+  "color_seal": "5917c6935b1d8c745c3deeeebf7acaa9fabd1ba09e5e34c90f2b5d20b5e174bb",
+  "input_sha256": "bc27ea975ef5688db8d33ce0b135693566372226116746e3eb55ad3e50ec491b",
+  "seal": "f14932c29a00f3ad0fd5d1c5e36aaaeda0259158331b4b576be90991bf5fb1f2",
+  "template_used": "demo_validation_template.json",
+  "verified_by": "VeriBound 0.1.3",
+  "signature_algorithm": "SHA-256",
+  "legal_basis": "Basel III IRB model validation"
+}
